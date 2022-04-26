@@ -24,7 +24,7 @@ int meas_lnr_quench = 10 ; // measurement cycle for the linear quench
 int rate_t = 1024; // rate for the linear quench simulations
 
 double J = 1.0 ;
-double Temp = 1.20 ;
+double Temp = 0.90 ;
 double T_kt = 0.89;
 double T_fin ;
 double T_0  ; 
