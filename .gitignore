@@ -1,0 +1,16 @@
+### Ignore *.dat files
+*.dat
+
+## html files
+*.html
+
+
+## DS store files
+*.DS_Store
+
+## executable files
+*.out
+gen 
+
+## some data file
+configu*
